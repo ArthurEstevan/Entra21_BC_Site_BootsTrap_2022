@@ -21,3 +21,17 @@ body {
 }
 
 button:hover { background: gold; }
+
+.tamanhofonte {
+    font-size: 14px;
+}
+
+.tamanhoimagem {
+    width: 150px;
+    height: 150px;
+}
+
+.fora p{
+    position: absolute;
+    bottom: 0;
+}
