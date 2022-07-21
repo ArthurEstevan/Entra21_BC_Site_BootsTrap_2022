@@ -65,6 +65,8 @@ Banking System, where we have the features of a bank as an example: account regi
 
 - Frontend - Front-end Web Development 
 ![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=#E34F26) 
+
+- Framework - Software Genre
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#7952B3) 
 
 - Markdown language - Text Formatting 
