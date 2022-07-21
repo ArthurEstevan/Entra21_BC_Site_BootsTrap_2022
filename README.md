@@ -41,7 +41,7 @@
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/TimeVerde/SistemaBancario)
-    - [Dowload](https://github.com/TimeVerde/SistemaBancario) ⇽ Or a direct download from the page 
+    - [Dowload](https://github.com/ArthurEstevan/Entra21_BC_Site_BootsTrap/archive/refs/heads/master.zip) ⇽ Or a direct download from the page 
     - Import the project into your IDE and execute the application.
     
     <br>
