@@ -1,4 +1,4 @@
-# ![](./icon_banco_ultimo.png) Bank Account Project ![](./icon_banco_ultimo.png)
+# ![](./sacos-de-dinheiro.png) Bank Account Project ![](./sacos-de-dinheiro.png)
 
 >
 ## ![](./dois.png) First Version of the Project:
@@ -48,18 +48,31 @@
     
 ---
 
-## ![](./projeto.png) Sobre o Projeto
+## ![](./icon_conceito.png) About the Project
 
-Sistema Bancário, onde temos as funcionalidades de um banco como por exemplo: cadastro de conta, login de conta, ações bancárias do dia a dia também implementação de uma regra de negócio, nesse caso utilizei investimento para resaltar essa parte. 
+Banking System, where we have the features of a bank as an example: account registration, account login, day-to-day banking actions also implementation of a business rule, in this case use investment to highlight this part.
 
 <br>
 
 ---
 
-## ⚙️ Technology
+## ![](./configuracoes.png) Technologies Used
 
-- IDE - ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
-- Backend - ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+- IDE - Integrated development environment 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+- Frontend - Front-end Web Development 
+![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=#E34F26) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#7952B3) 
+
+- Markdown language - Text Formatting 
+![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=#000000)
+
+- Documentation - File Documentation
+![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge&logo=academia&logoColor=#41454A)
+
+- Versioning - Versioning from GitHub
+![Versioning](https://img.shields.io/badge/Versioning-black?style=for-the-badge&logo=git&logoColor=#F05032)
 
 <br>
 
