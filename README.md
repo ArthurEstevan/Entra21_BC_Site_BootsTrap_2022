@@ -19,7 +19,7 @@
 <details>
   <summary><b>Portuguese 🗣️ </b></summary>
   
-## 2️⃣ Segunda Versão do Projeto:
+## ![](./dois.png) Segunda Versão do Projeto:
 
 > Com o domínio apenas das informações aprendidas até o momento deve ser desenvolvido um projeto que envolva todos os assuntos e que será mantido até o final do curso e > posterior apresentação a banca avaliadora.
 >
