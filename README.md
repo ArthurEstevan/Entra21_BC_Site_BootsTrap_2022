@@ -1,7 +1,7 @@
-# ![](./sacos-de-dinheiro.png) Bank Account Project ![](./sacos-de-dinheiro.png)
+# ![](./icons/sacos-de-dinheiro.png) Bank Account Project ![](./icons/sacos-de-dinheiro.png)
 
 >
-## ![](./dois.png) First Version of the Project:
+## ![](./icons/dois.png) Second Version of the Project:
 
 >With only the knowledge learned, a project will be developed that involves all subjects and that will be maintained until the end of the course and > subsequent presentation to the evaluated board.
 >
@@ -19,7 +19,7 @@
 <details>
   <summary><b>Portuguese 🗣️ </b></summary>
   
-## ![](./dois.png) Segunda Versão do Projeto:
+## ![](./icons/dois.png) Segunda Versão do Projeto:
 
 > Com o domínio apenas das informações aprendidas até o momento deve ser desenvolvido um projeto que envolva todos os assuntos e que será mantido até o final do curso e > posterior apresentação a banca avaliadora.
 >
@@ -37,7 +37,7 @@
 
 <br>
 
-## ![](./instrucoes.png) Instructions for Execute the Project 
+## ![](./icons/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Entra21_BC_Site_BootsTrap) ⇽ Clone this repository on your computer
@@ -50,7 +50,7 @@
     
 ---
 
-## ![](./icon_conceito.png) About the Project
+## ![](./icons/icon_conceito.png) About the Project
 
 Banking System, where we have the features of a bank as an example: account registration, account login, day-to-day banking actions also implementation of a business rule, in this case use investment to highlight this part.
 
@@ -58,7 +58,7 @@ Banking System, where we have the features of a bank as an example: account regi
 
 ---
 
-## ![](./configuracoes.png) Technologies Used
+## ![](./icons/configuracoes.png) Technologies Used
 
 - IDE - Integrated development environment 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -82,5 +82,9 @@ Banking System, where we have the features of a bank as an example: account regi
 
 ---
 
-## Project Demo Gift
+## ![](./icons/arquivos-de-imagem%20(1).png) Project Demo Gift
+
+<br>
+
+![gift](/assets/Green_Bank_version2.0.gif)
 
