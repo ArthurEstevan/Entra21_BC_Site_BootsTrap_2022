@@ -41,7 +41,7 @@
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Entra21_BC_Site_BootsTrap) ⇽ Clone this repository on your computer
-    - [Dowload](https://github.com/ArthurEstevan/Entra21_BC_Site_BootsTrap/archive/refs/heads/master.zip) ⇽ Or a direct download from the page 
+    - [Download](https://github.com/ArthurEstevan/Entra21_BC_Site_BootsTrap/archive/refs/heads/master.zip) ⇽ Or a direct download from the page 
 
 2. Import the project into your IDE and execute the application.
 
