@@ -88,3 +88,10 @@ Banking System, where we have the features of a bank as an example: account regi
 
 ![gift](/assets/Green_Bank_version2.0.gif)
 
+## 📚 _References_ 
+
+> Web sites that I used to make this project, and repositorys for help you.
+
+1. [Official Site Bootstrap](https://getbootstrap.com/)
+2. [Teacher Repository](https://github.com/oliota/entra21-aulas-frontend-html5-css3)
+2. [Help You](https://github.com/ArthurEstevan/Exercise_in_Html5_and_Css3)
